@@ -1,0 +1,1 @@
+import{o as n,a as o}from"./index-f18b308e.js";const s=["innerHTML"],l={__name:"ContentTitle",props:["componentData","testStyle"],setup(t){const e=t;return(a,c)=>(n(),o("div",{innerHTML:e.componentData.title,class:"content-title"},null,8,s))}};export{l as default};
